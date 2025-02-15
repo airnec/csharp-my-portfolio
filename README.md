@@ -1,3 +1,3 @@
 # CSharpMyPortfolio
 
-![Açýklama metni](../wwwroot/assets/Intro1.png)
+![Açýklama metni](CSharpMyPortfolio/wwwroot/assets/Intro1.png)
