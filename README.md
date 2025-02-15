@@ -9,6 +9,9 @@
   - ASP.NET Core MVC
   - MSSQL Server
   - Entity Framework Core
+  - Razor Pages
+  - View Components
+  - Model Binding
   - HTML
   - CSS
   - JavaScript
